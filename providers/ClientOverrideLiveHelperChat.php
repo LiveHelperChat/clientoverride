@@ -1,7 +1,7 @@
 <?php
 
 namespace LiveHelperChatExtension\clientoverride\providers {
-
+    #[\AllowDynamicProperties]
     class ClientOverrideLiveHelperChat {
 
         public static function getInstance() {

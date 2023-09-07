@@ -1,5 +1,5 @@
-<?php 
-
+<?php
+#[\AllowDynamicProperties]
 class erLhcoreClassExtensionClientoverride {
 
 	public function __construct() {
